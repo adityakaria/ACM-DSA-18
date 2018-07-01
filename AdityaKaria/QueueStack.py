@@ -12,7 +12,7 @@ Author: Aditya Karia
 		peek- returns the value of top element
 		stack_len- returns the number of elements in stack
 	Queues: (FIFO)
-		queue- adds an element to the front of queue
+		queue- adds an element to the rear of queue
 		dequeue- removes an element from front of queue
 		front- returns the value of front element
 3) Function 'main' runs the driver for testing of code
